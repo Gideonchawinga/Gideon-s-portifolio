@@ -1,0 +1,29 @@
+My CV Webpage
+This project is a responsive webpage that showcases my skills and experiences through a CV. The webpage requires an active internet connection to display icons, which adds an interactive touch to the user interface. Users can also download my CV directly from the webpage.
+
+
+Features
+Active Internet Connection: The webpage utilizes icons that are fetched from an online source, enhancing the user experience with interactive elements.
+
+Responsive Design: The webpage is optimized to adapt and provide a seamless experience on various mobile devices, including smartphones and tablets.
+
+Download CV: Users can easily download my CV in PDF format directly from the webpage, making it convenient for potential employers to access my credentials.
+
+Requirements
+To view the webpage, you need:
+
+A modern web browser with an active internet connection.
+Installation
+As this webpage is hosted online, there's no need for installation. You can access it directly from the provided link.
+
+Usage
+Follow these simple steps to use the webpage:
+
+Ensure you have an active internet connection.
+
+Explore the interactive sections to learn more about my skills and experiences.
+To download my CV, click on the "Download CV" button, and it will be saved to your device in PDF format.
+License
+
+
+Feel free to add more sections or elaborate on the features, installation process, or usage instructions if needed.
